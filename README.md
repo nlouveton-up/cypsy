@@ -1,16 +1,12 @@
-# cypsy
+GROUPE CYPSY
+==============
 
-Groupe de recherche sur la cyber-sécurité, la cognition et l'éthique technologique (Université de Poitiers).
+Groupe de recherche à l’intersection des questions cybersécurité et psychologie et comportements dans la sphère numérique.
 
-## Séminaires mensuels
+ATELIERS
+========
 
-Chaque mois, le groupe se réunit pour présenter en profondeur un article sur le sujet de la cybersécurité et de la cognition humaine. Il peut s'agir d'un article fondamental ou d'un article récemment paru.
-
-## Projets
-
-à venir.
-
-## Membres du groupe
-
-à venir.
-
+27 mars 2025
+——————------
+Lecture colletive de l’article :
+Qawasmeh, S. A. D., AlQahtani, A. A. S., & Khan, M. K. (2025). Navigating cybersecurity training: A comprehensive review. Computers and Electrical Engineering, 123, 110097.
