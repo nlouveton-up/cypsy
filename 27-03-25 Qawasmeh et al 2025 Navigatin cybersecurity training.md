@@ -6,7 +6,7 @@ Qawasmeh, S. A. D., AlQahtani, A. A. S., & Khan, M. K. (2025). Navigating cybers
 
 Scimago SJR de Computers and Electrical Engineering
 
-￼![image]("SCIMAGO SJR Computers and Electrical Engineering.png")
+￼![image](https://github.com/nlouveton-up/cypsy/blob/main/SCIMAGO%20SJR%20Computers%20and%20Electrical%20Engineering.png)
 
 Le sujet de fond : 
 Cybersecurity awareness training
